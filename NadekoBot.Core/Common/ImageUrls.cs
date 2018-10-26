@@ -9,7 +9,7 @@ namespace NadekoBot.Core.Common
         public CoinData Coins { get; set; }
         public Uri[] Currency { get; set; }
         public Uri[] Dice { get; set; }
-        public RategirlData Rategirl { get; set; }
+        // public RategirlData Rategirl { get; set; }
         public XpData Xp { get; set; }
 
         //new
