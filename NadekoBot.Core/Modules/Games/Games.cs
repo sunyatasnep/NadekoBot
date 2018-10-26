@@ -54,6 +54,7 @@ namespace NadekoBot.Modules.Games
 
         [NadekoCommand, Usage, Description, Aliases]
         [RequireContext(ContextType.Guild)]
+/* Remove RateGirl for the time being 
         public async Task RateGirl(IGuildUser usr)
         {
             var gr = _service.GirlRatings.GetOrAdd(usr.Id, GetGirl);
@@ -143,7 +144,7 @@ namespace NadekoBot.Modules.Games
 
             return new GirlRating(_images, _httpFactory, crazy, hot, roll, advice);
         }
-
+*/
         [NadekoCommand, Usage, Description, Aliases]
         public async Task Linux(string guhnoo, string loonix)
         {
