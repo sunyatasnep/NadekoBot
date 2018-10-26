@@ -1,5 +1,7 @@
 ## This is a fork. Docs under construction. Do not use.
 
+NadekoBot with the RateGirl game removed. Currently otherwise identical.
+
 
 ![img](https://ci.appveyor.com/api/projects/status/gmu6b3ltc80hr3k9?svg=true)
 [![Discord](https://discordapp.com/api/guilds/117523346618318850/widget.png)](https://discord.gg/nadekobot)
